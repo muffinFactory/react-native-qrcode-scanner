@@ -39,7 +39,7 @@
   },
   "peerDependencies": {
     "react-native-camera": ">=1.0.2",
-    "react-native-permissions": "^2.0.2"
+    "react-native-permissions": ">=2.0.2"
   },
   "peerDependenciesMeta": {
     "react-native-permissions": {
